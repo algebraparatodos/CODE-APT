@@ -27,7 +27,5 @@ print("El polinomio de Taylor de la función"+" "+str(function)+" es")
 
 print(Taylor(function,variable,a,n))
 
-
-
-
+print("--"*21)
 
